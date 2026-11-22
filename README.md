@@ -46,6 +46,10 @@ The Excel dashboard provides a visual summary of the business's performance. It 
 - Sales trends over time
 - Top customers by sales
 
+
+<img width="2297" height="918" alt="{977AFED9-671C-4D40-A664-950FD2765CF0}" src="https://github.com/user-attachments/assets/07d5c038-f429-4e68-8c53-15d4e61ca39a" />
+
+
 Dashboard elements are supported by pivot tables and Excel charts, allowing stakeholders to quickly identify trends and high-performing areas.
 
 ## Skills Demonstrated
